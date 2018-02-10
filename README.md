@@ -1,4 +1,4 @@
-# ⚛︎⚛︎⚛︎ Atom Multi ⚛︎⚛︎⚛︎
+# ⚛️⚛️⚛️ Atom Multi ⚛️⚛️⚛️
 
 A nice, light little helper to help you open multiple projects in one Atom window.
 
