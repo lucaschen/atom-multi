@@ -1,0 +1,19 @@
+{
+  "name": "atom-multi",
+  "version": "1.0.0",
+  "description": "A little helper to help you open multiple projects in one Atom window.",
+  "main": "atom-multi.js",
+  "scripts": {
+    "postinstall": "node remember-to-install-atom.js",
+    "start": "node atom-multi.js"
+  },
+  "author": "Lucas Chen",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "~1.1.2",
+    "minimatch": "^3.0.4"
+  },
+  "bin": {
+    "atom-multi": "node atom-multi.js"
+  }
+}
