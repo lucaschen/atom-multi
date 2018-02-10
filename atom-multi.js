@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 // atom-multi ~/work/projects/ react-*
 
 const [projectDir, globPattern] = process.argv.slice(2); // remove "node" and "atom-multi.js"
