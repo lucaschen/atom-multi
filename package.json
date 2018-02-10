@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "colors": "~1.1.2",
-    "minimatch": "^3.0.4"
+    "minimatch": "~3.0.4"
   },
   "bin": {
     "atom-multi": "node atom-multi.js"
