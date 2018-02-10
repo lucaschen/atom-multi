@@ -1,6 +1,6 @@
 {
   "name": "atom-multi",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A little helper to help you open multiple projects in one Atom window.",
   "main": "atom-multi.js",
   "scripts": {
